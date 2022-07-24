@@ -1,0 +1,6 @@
+name: Syncer
+version: '${project.version}'
+main: dev.kutuptilkisi.syncer.Syncer
+api-version: 1.17
+commands:
+  link:
